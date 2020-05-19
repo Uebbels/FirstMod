@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "myfirstmod:block/firstblock",
+    "front": "myfirstmod:block/firstblock_powered",
+    "side": "myfirstmod:block/firstblock"
+  }
+}
